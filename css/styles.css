@@ -24,6 +24,13 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
    }
+   .link {
+       color: #434456;
+   }
+
+   .link:hover {
+       color: #404BBF;
+   }
    .menu-link {
         color: #2e2f42;
         /* Body Medium */
@@ -42,12 +49,7 @@ body {
    .menu-link:focus {
     color: #404BBF;
    }
-   .link {
-    color: #434456;
-   }
-   .link:hover {
-    color: #404BBF;
-   }
+   
    .adres-tel {
     font-style: normal;
    }
