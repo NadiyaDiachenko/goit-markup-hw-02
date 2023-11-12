@@ -65,17 +65,20 @@ body {
    .mail-link:focus {
     color: #404bbf;
    }
+   .title-section-one {
+text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07;
+    /* 107.143% */
+    letter-spacing: o.02em;
+   }
    
    .section-hero {
     color: white;
     background:  #2E2F42;
-    text-align: center;
-        font-size: 56px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.07;
-        /* 107.143% */
-        letter-spacing: o.02em;
+    
    }
    .button-order {
     color: rgb(255, 255, 255);
