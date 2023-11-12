@@ -18,14 +18,14 @@ body {
             sans-serif;
         font-size: 18px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 700;
         line-height: 1.17;
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
    }
    .menu-link {
-    color: #434455;
+    color: #2e2f42;
         /* Body Medium */
         font-family: 'Roboto',
             sans-serif;
