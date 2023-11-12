@@ -105,6 +105,13 @@ text-align: center;
    .section-mein {
     background-color: #F4F4FD;
    }
+   .title-too {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+   }
    .footer-background {
     color: white;
     background-color: #2E2F42;
