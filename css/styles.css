@@ -25,7 +25,7 @@ body {
         text-transform: uppercase;
    }
    .menu-link {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var#2E2F42;
         /* Body Medium */
         font-family: 'Roboto',
             sans-serif;
