@@ -64,3 +64,10 @@ body {
    .title-section-one {
     color: white;
    }
+   .footer-background {
+    color: white;
+    background-color: #2E2F42;
+   }
+   .footerlink {
+    color: white;
+   }
