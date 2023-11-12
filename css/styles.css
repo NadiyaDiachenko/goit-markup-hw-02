@@ -25,7 +25,7 @@ body {
         text-transform: uppercase;
    }
    .menu-link {
-    color: #2E2F42;
+    color: #434455;
         /* Body Medium */
         font-family: 'Roboto',
             sans-serif;
@@ -50,6 +50,13 @@ body {
    }
    .adres-tel {
     font-style: normal;
+   }
+   .menu-link {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02em;
    }
    .section-hero {
     color: white;
