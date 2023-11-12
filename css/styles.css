@@ -39,7 +39,7 @@ body {
    .menu-link:hover {
     color: #404BBF;
    }
-   .menu-link:active {
+   .menu-link:focus {
     color: #404BBF;
    }
    .link {
