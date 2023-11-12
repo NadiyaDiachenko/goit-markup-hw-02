@@ -48,6 +48,9 @@ body {
    .link:hover {
     color: #404BBF;
    }
+   .adres-tel {
+    font-style: normal;
+   }
    .section-hero {
     color: white;
     background:  #2E2F42;
