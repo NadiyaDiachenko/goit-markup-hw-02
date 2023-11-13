@@ -23,9 +23,10 @@ body {
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
-   }
- 
-   
+   }    
+        span {
+            color: #2e2f42;
+        }
 
    .link:hover {
        color: #404BBF;
@@ -214,6 +215,13 @@ color: #434455;
         /* 150% */
         letter-spacing: 0.02em;
    }
-   span {
-    color: #2e2f42;
-   }
+   .link-footerlink {
+    color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.16;
+        /* 116.667% */
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
