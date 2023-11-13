@@ -203,7 +203,9 @@ color: #434455;
     color: white;
     background-color: #2E2F42;
    }
-  
+   .footerlink {
+    color: white;
+   }
    .paragraph-foter {
     color: #F4F4FD;
         /* Body */
@@ -215,16 +217,15 @@ color: #434455;
    }
    .link-footerlink {
     color: #4D5AE5;
-        font-family: "Raleway",
-            sans-serif;
+        font-family: Raleway;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.17;
+        line-height: 1.16;
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
    }
 .span-footer {
-  color: #f4f4fd;
+   color: #F4F4FD;
 }
