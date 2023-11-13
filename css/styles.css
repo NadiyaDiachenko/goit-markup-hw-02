@@ -225,3 +225,7 @@ color: #434455;
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
+   }
+.span-footer {
+  color: #f4f4fd;
+}
