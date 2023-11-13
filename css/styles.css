@@ -121,7 +121,8 @@ text-align: center;
         /* 150% */
         letter-spacing: 0.02em;
    }
-.c{
+
+.list-section-three {
     color: #2E2F42;
         text-align: center;
         /* Header 2 */
@@ -132,9 +133,6 @@ text-align: center;
         /* 111.111% */
         letter-spacing: 0.02em;
         text-transform: capitalize;
-}
-.list-secyion-three {
-    background-color: #FFFFFF;
 }
    .pharagraf-section-three {
     color: #434455;
