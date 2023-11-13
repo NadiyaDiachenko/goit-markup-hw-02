@@ -121,6 +121,20 @@ text-align: center;
         /* 150% */
         letter-spacing: 0.02em;
    }
+.title-section-three {
+    color: #2E2F42;
+        text-align: center;
+        /* Header 2 */
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.11;
+        /* 111.111% */
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+
+   
    .footer-background {
     color: white;
     background-color: #2E2F42;
