@@ -13,7 +13,7 @@ body {
     
 }
    .logo {
-    color: #f4f4fd;
+    color: #4d5ae5;
         font-family: 'Raleway',
             sans-serif;
         font-size: 18px;
@@ -24,7 +24,7 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
    }    
-        span {
+        .span-header {
             color: #2e2f42;
         }
 
